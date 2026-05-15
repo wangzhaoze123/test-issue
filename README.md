@@ -2,4 +2,4 @@
 
 | 姓名 | 昵称 |
 |------|------|
-| Wang Zhaoze | 你的昵称 |
+| Wang Zhaoze | Eli |
